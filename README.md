@@ -48,6 +48,7 @@ Browser-based tools for server owners and players.
 - [Minecraft ServerHub Server Explorer](https://minecraft-serverhub.com/explore) - Browse and search 5000+ active servers by gamemode, version, and region.
 - [MineServ.top](https://mineserv.top) - Server listing directory.
 - [Minecraft Server List](https://minecraft-server-list.com) - Community server directory.
+- [SpawnList](https://spawnlist.net) - Server directory with daily-randomized listing for fair exposure; Votifier supported.
 
 ## npm Packages
 
